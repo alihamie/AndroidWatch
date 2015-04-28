@@ -13,8 +13,11 @@
 * You need to install the app on your mobile device and the hellpong on the Watch
 * Watch emulator won't work because it doesn't use sensors
 
+### What is it ? ###
+It is basically a single player ping pong game controlled using the sensors
+of the android Watch
 
-### Contribution guidelines ###
+### Project Idea ###
 
 * This project was made over 30 hours at a Hackathon 
 * It was developed by myself and my friend Taylor Ereio
