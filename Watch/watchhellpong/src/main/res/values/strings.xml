@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HellPong</string>
+    <string name="hello_round">Hello Round World!</string>
+    <string name="hello_square">Controller</string>
+</resources>

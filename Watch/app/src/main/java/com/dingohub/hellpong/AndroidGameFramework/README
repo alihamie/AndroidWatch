@@ -1,0 +1,11 @@
+The framework has been modified from a previous version found online and built through
+a series of online tutorials. The original, unaltered
+copy of the framework developed here is from a book on game development called
+Beginning Android Games Development (by Mario Zechner and Robert Green). However,
+the framework has been approved upon computationally and functionally throughout the
+course of me designing it through tutorials and use.
+Many improvements such as Touch Handling, bitmap density and scaling, etc
+have been improved upon. All game logic, watch interfacing, and other designs are not apart of
+the framework and have been produced only by myself and Ali Hamie.
+
+- Taylor Ereio
